@@ -1,0 +1,4 @@
+((params ())
+ (start (Single "ls"))
+ (stop (Single "ls /"))
+ (init (Multiple ("cd /" "ls"))))
